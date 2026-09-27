@@ -1,0 +1,20 @@
+# Build results
+[Bb]in/
+[Ob]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages / NuGet
+*.nupkg
+packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db

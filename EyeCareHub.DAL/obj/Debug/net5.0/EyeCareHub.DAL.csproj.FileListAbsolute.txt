@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\bin\Debug\net5.0\EyeCareHub.DAL.deps.json
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\bin\Debug\net5.0\EyeCareHub.DAL.runtimeconfig.json
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\bin\Debug\net5.0\EyeCareHub.DAL.runtimeconfig.dev.json
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\bin\Debug\net5.0\EyeCareHub.DAL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\bin\Debug\net5.0\EyeCareHub.DAL.pdb
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.AssemblyInfo.cs
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\refint\EyeCareHub.DAL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.pdb
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\EyeCareHub.DAL.genruntimeconfig.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.DAL\obj\Debug\net5.0\ref\EyeCareHub.DAL.dll

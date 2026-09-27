@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\bin\Release\net5.0\EyeCareHub.BLL.deps.json
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\bin\Release\net5.0\EyeCareHub.BLL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\bin\Release\net5.0\EyeCareHub.BLL.pdb
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\bin\Release\net5.0\EyeCareHub.DAL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\bin\Release\net5.0\EyeCareHub.DAL.pdb
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.AssemblyInfo.cs
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.csproj.CopyComplete
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\refint\EyeCareHub.BLL.dll
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\EyeCareHub.BLL.pdb
+C:\Users\dell\source\repos\EyeCareHub.API\EyeCareHub.BLL\obj\Release\net5.0\ref\EyeCareHub.BLL.dll
